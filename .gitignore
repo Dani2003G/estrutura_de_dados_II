@@ -22,3 +22,15 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 /Aula_03/target/
+/teste/target/
+/mavenproject1/target/
+/teste2/target/
+/Ola/target/
+/Ttt/target/
+/teste/nbproject/private/
+/WebApplication1/nbproject/private/
+/Teste2/target/
+/mavenproject4/target/
+/mavenproject5/target/
+/WebApplication2/nbproject/private/
+/Aula_04/target/
